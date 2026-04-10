@@ -10,9 +10,19 @@ namespace SEM3_C
     {
         static void Main(string[] args)
         {
-            string nombre, carrera;
+            string n, c;
             Console.Write("Ingrese nombre:");
-            Console.Write("Ingrese carrera:");
+            n = Console.ReadLine();
+            Console.WriteLine("Ingrese carrera:");
+            c= Console.ReadLine();
+
+            Console.WriteLine("\n------ IMPRESION CON + -----");
+            Console.WriteLine(n+ ", BIENVENIDO AL CURSO FA DE LA CARRERA " + C);
+
+            Console.WriteLine("\n-------IMPRESION CON $ ---------");
+            Console.WriteLine($"{n},Bienvenido al curso FA de la carrera {c}");
+
+            Console.ReadKey();
 
         }
     }
