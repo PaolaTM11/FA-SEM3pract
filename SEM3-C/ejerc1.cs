@@ -17,7 +17,7 @@ namespace SEM3_C
             c= Console.ReadLine();
 
             Console.WriteLine("\n------ IMPRESION CON + -----");
-            Console.WriteLine(n+ ", BIENVENIDO AL CURSO FA DE LA CARRERA " + C);
+            Console.WriteLine(n+ ", BIENVENIDO AL CURSO FA DE LA CARRERA " +c);
 
             Console.WriteLine("\n-------IMPRESION CON $ ---------");
             Console.WriteLine($"{n},Bienvenido al curso FA de la carrera {c}");

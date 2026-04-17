@@ -8,5 +8,13 @@ namespace SEM3_C
 {
     internal class ejerc2
     {
+       
+        static void Main(string[] args)
+        {
+            Console.WriteLine("\"PAOLA\"");
+
+            Console.ReadKey();
+
+        }
     }
 }
