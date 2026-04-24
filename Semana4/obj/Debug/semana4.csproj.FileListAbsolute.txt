@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\pAOLA\FA-SEM3pract\Semana4\bin\Debug\Semana4.exe.config
+C:\Users\UPN\Desktop\pAOLA\FA-SEM3pract\Semana4\bin\Debug\Semana4.exe
+C:\Users\UPN\Desktop\pAOLA\FA-SEM3pract\Semana4\bin\Debug\Semana4.pdb
+C:\Users\UPN\Desktop\pAOLA\FA-SEM3pract\Semana4\obj\Debug\semana4.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\pAOLA\FA-SEM3pract\Semana4\obj\Debug\semana4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\pAOLA\FA-SEM3pract\Semana4\obj\Debug\Semana4.exe
+C:\Users\UPN\Desktop\pAOLA\FA-SEM3pract\Semana4\obj\Debug\Semana4.pdb
+C:\Users\UPN\Desktop\pAOLA\FA-SEM3pract\Semana4\obj\Debug\Semana4.exe.config
